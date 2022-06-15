@@ -10,7 +10,7 @@ body {
     justify-content: center;
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(27deg, #0245CB 50%,#3ADC37 50%);
+    background: linear-gradient(27deg, #0245CB 30%,#3ADC37 70%);
 }
 
 .form-body{
